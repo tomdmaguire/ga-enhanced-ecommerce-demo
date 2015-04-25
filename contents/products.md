@@ -1,3 +1,3 @@
-[Bacon Jam](products/bacon-jam.html)
+[Bacon Jam](/products/bacon-jam/)
 
-[Burger Shirt](products/t-shirt.html)
+[Burger Shirt](/products/t-shirt/)

@@ -4,4 +4,4 @@ Contacting your bank
 
 ...
 
-[Complete Payment](/checkout/complete.html)
+[Complete Payment](/checkout/complete/)
