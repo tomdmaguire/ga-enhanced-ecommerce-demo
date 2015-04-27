@@ -12,6 +12,7 @@ Requirements:
 Installation:
 
 ```npm install```
+
 ```gem install bundler && bundle install```
 
 To build (and watch) source files:
