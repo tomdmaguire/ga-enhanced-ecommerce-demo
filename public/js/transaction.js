@@ -1,7 +1,7 @@
 // Generate a fake transaciton id
 generateTransactionId = function () {
   var date = new Date();
-  return date.getMonth() + date.getDate () + date.getHours() + date.getMinutes();
+  return date.getMonth().toString() + date.getDate().toString() + date.getHours().toString() + date.getMinutes().toString();
 };
 
 ga('ec:addProduct', {
