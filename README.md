@@ -22,3 +22,5 @@ To build (and watch) source files:
 To run:
 
 `rackup`
+
+Then visit: http://localhost:9292/
