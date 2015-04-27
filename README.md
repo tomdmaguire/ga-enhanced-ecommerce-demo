@@ -17,7 +17,7 @@ Installation:
 
 To build (and watch) source files:
 
-```gulp```
+`gulp`
 
 To run:
 
