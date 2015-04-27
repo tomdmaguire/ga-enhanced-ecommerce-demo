@@ -21,4 +21,4 @@ To build (and watch) source files:
 
 To run:
 
-```rackup```
+`rackup`
