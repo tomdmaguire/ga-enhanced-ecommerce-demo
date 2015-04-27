@@ -1,5 +1,6 @@
 use Rack::Static,
-  :root => "build"
+  :urls => ["/js"],
+  :root => "public"
 
 run lambda { |env|
   file = env['PATH_INFO'] == '/' ? 'index' : env['PATH_INFO']

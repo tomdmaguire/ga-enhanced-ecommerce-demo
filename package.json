@@ -1,0 +1,24 @@
+{
+  "name": "ga-enhanced-ecommerce-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-static-site": "^0.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomdmaguire/ga-enhanced-ecommerce-demo.git"
+  },
+  "author": "Tom Maguire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomdmaguire/ga-enhanced-ecommerce-demo/issues"
+  },
+  "homepage": "https://github.com/tomdmaguire/ga-enhanced-ecommerce-demo"
+}
